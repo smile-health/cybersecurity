@@ -43,8 +43,10 @@ The proposed approach is built upon the following pillars:
 3. Integrate automated Application security testing and techniques (Technology)
 4. Embrace a Cloud Native Application Security Program
 
----
+![DevSecOps-Framework-Golden-Triad](images/DevSecOps-Framework-Golden-Triad.webp)
 
+---
+![SMILE-5-Cloud-Native-Application-Security-Program](images/SMILE-5-Cloud-Native-Application-Security-Program.webp)
 ## Key Benefits
 
 The main benefits of the suggested approach are the following:
