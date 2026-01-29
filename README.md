@@ -8,7 +8,15 @@
 - [Purpose](#purpose)
   - [Scope](#scope)
 - [Prerequisites](#prerequisites)
-- Inputs
+- [Inputs](#inputs)
+- [Deliverables](#deliverables)
+  - [Phase 1 - Cloud Native Application Security Program](#phase-1---cloud-native-application-security-program)
+  - [Phase 2 - Basic Security](#phase-2---basic-security)
+  - [Phase 2 - Basic Security (Stage 2)](#phase-2---basic-security-stage-2)
+  - [Phase 3 - Advanced Security (Stage 1)](#phase-3---advanced-security-stage-1)
+- [Dependencies](#dependencies)
+- [Process Workflow](#process-workflow)
+
 ---
 
 ## About
@@ -102,6 +110,16 @@ The primary purpose of the cybersecurity workstream is to protect Ministry of He
 - UNICC DevSecOps framework
 
 ---
+
+## Deliverables
+
+Outlined below are the expected deliverables that this process aims to achieve upon completion:
+
+1. **Phase 1 - Cloud Native Application Security Program**
+2. **Phase 2 - Basic Security**
+3. **Phase 2 - Basic Security (Stage 2)**
+4. **Phase 3 - Advanced Security (Stage 1)**
+
 
 ## Phase 1 - Cloud Native Application Security Program
 *(UNICC Cyber Security Advisory Role)*
