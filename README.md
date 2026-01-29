@@ -161,4 +161,22 @@ DevSecOps Platform SMILE 5.0 Pipelines Onboarding
 - Runtime Protection
 - Incident Response
 
+---
 
+## Dependencies
+
+The following dependencies are essential for the successful execution of this process:
+- Hands-on training on secure coding and application security
+- Integration of secure coding practices into the software development lifecycle (SDLC)
+- Regular code reviews and security testing, including static and dynamic analysis
+- Well-defined security policies and procedures
+- Comprehensive risk assessment and management process
+- Availability of skilled cybersecurity resources
+- Thorough documentation of the security architecture
+- Continuos commit of code to  Bitbucket
+
+---
+
+## Process Workflow
+
+The following table provides the per-step activities breakdown of the cybersecurity workflow:
